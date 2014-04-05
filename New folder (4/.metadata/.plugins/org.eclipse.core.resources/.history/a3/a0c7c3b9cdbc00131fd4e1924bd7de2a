@@ -1,0 +1,23 @@
+package com.feroz.inheritence1;
+
+public class TryInheritextendsJavaInheritence {
+
+	public static void main(String[] args) {
+		multi();
+		multi();
+		sub(85.32);
+		calculator(45,5);
+		String();
+		Sub(24,23,10);
+		
+
+	
+	
+		
+	}
+		
+	
+
+	}
+
+}
